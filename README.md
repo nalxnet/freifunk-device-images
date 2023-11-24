@@ -1,5 +1,7 @@
 # freifunk-device-images
 
+**The router images are now collected in a [central repository](https://github.com/freifunk/device-pictures), therefore this repository has been archived.**
+
 This is an incomplete collection of hardware illustrations of various devices used for Freifunk.
 
 ## License
